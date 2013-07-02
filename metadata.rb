@@ -1,3 +1,4 @@
+name             "rpm_build"
 maintainer       "Intuit, Inc."
 maintainer_email "kevin_young@intuit.com"
 license          "Apache 2.0"
