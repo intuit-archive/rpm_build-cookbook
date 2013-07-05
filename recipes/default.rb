@@ -1,3 +1,3 @@
-package rpm-build do
+package "rpm-build" do
   action :install
 end
